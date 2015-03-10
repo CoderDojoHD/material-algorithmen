@@ -21,7 +21,7 @@ Die Teilnehmer benutzen eine einfache Programmieroberfläche, z.B.
 - [Aufgabe 3: Gerade Fibonacci-Zahlen](aufgabe-3.md)
 
 Jetzt kannst du mit den anderen Aufgaben von
-[Projekt Euler](https://projekteuler.de/) weitermachen...
+[Projekt Euler](https://projekteuler.de/problems) weitermachen...
 
 ## repl.it
 
