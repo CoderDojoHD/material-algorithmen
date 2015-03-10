@@ -21,11 +21,11 @@ Die Teilnehmer benutzen eine einfache Programmieroberfläche, z.B.
 
 ## repl.it
 
-Das Material ist auch als Repl.It-Sessions verfügbar:
+Das Einführungs-Material ist auch als Repl.It-Sessions verfügbar:
 
 - JavaScript-Intro 1: http://repl.it/dVR/3
 - JavaScript-Intro 2: http://repl.it/dVR/5
-- JavaScript-Intro 6: http://repl.it/dVR/6
+- JavaScript-Intro 3: http://repl.it/dVR/6
 
 
 ## Quellen für Aufgaben
