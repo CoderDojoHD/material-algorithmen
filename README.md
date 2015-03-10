@@ -16,7 +16,7 @@ Die Teilnehmer benutzen eine einfache Programmieroberfläche, z.B.
 
 # Übungen
 
-- [Aufgabe 1](aufgabe-1.md)
+- [Aufgabe 1: Summe bis 100](aufgabe-1.md)
 
 ## repl.it
 
