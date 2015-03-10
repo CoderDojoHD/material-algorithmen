@@ -18,7 +18,7 @@ Die Teilnehmer benutzen eine einfache Programmieroberfläche, z.B.
 
 - [Aufgabe 1: Summe bis 100](aufgabe-1.md)
 - [Aufgabe 2: Vielfache von 3 und 5](aufgabe-2.md)
-- [Aufgabe 3: Größter Primfaktor](aufgabe-3.md)
+- [Aufgabe 3: Gerade Fibonacci-Zahlen](aufgabe-3.md)
 
 ## repl.it
 
