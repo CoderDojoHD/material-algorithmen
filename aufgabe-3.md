@@ -6,11 +6,6 @@ Jeder neue Term in der Fibonacci-Reihe wird gebildet, indem die beiden vorherige
 
 Finde die Summe aller geraden Terme der Fibonacci-Reihe, die 4 Millionen nicht überschreiten.
 
-## Hinweis
-
-Löse das Problem zunächst mit einer deutlich kleineren Zahl, z.B. 100.
-Eventuell funktioniert diese Lösung für 4000000 nicht mehr. Warum?
-
 ## Lösung
 
 https://github.com/CoderDojoHD/material-algorithmen/blob/master/aufgabe-3.js
