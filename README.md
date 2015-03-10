@@ -10,9 +10,9 @@ Die Teilnehmer benutzen eine einfache Programmieroberfläche, z.B.
 
 # Kurze Einführung in JavaScript
 
-- Lektion 1: https://github.com/CoderDojoHD/material-algorithmen/blob/master/js-intro-1.js
-- Lektion 2: https://github.com/CoderDojoHD/material-algorithmen/blob/master/js-intro-2.js
-- Lektion 3: https://github.com/CoderDojoHD/material-algorithmen/blob/master/js-intro-3.js
+- Intro 1: https://github.com/CoderDojoHD/material-algorithmen/blob/master/js-intro-1.js
+- Intro 2: https://github.com/CoderDojoHD/material-algorithmen/blob/master/js-intro-2.js
+- Intro 3: https://github.com/CoderDojoHD/material-algorithmen/blob/master/js-intro-3.js
 
 # Übungen
 
@@ -24,6 +24,7 @@ Das Material ist auch als Repl.It-Sessions verfügbar:
 
 - JavaScript-Intro 1: http://repl.it/dVR/3
 - JavaScript-Intro 2: http://repl.it/dVR/5
+- JavaScript-Intro 6: http://repl.it/dVR/6
 
 
 ## Quellen für Aufgaben
