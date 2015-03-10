@@ -31,3 +31,20 @@ function summiereAlle(zahlen) {
 
 var meineZahlen = [10, 23, 55, 99];
 console.log(summiereAlle(meineZahlen));
+
+
+// Eine andere Möglichkeit
+
+function summiereAlle2(zahlen) {
+  var summe = 0;
+  var i = 0;
+  while(i < zahlen.length) {
+    var zahl = zahlen[i];
+    summe += zahl;
+    i++;
+  }
+  return summe;
+}
+
+var meineZahlen = [10, 23, 55, 99];
+console.log(summiereAlle2(meineZahlen));
