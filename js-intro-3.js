@@ -15,9 +15,9 @@ console.log("Pi =", Math.PI);
 
 function druckeGerade(zahl) {
   if (zahl % 2 == 0) {
-    console.log(zahl + " ist gerade.")
+    console.log(zahl + " ist gerade.");
   } else {
-    console.log(zahl + " ist ungerade.")
+    console.log(zahl + " ist ungerade.");
   }
 }
 
