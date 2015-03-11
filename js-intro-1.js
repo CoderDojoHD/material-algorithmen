@@ -5,6 +5,7 @@
 132 * (5 + 9) / 33.3
 
 console.log("Das Ergebnis lautet:", 100)
+console.log("Aber: 0.2 + 0.1 =", 0.2 + 0.1)
 
 
 // Werte kann man sich in Variablen merken

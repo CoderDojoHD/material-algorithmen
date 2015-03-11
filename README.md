@@ -27,6 +27,6 @@ Jetzt kannst du mit den anderen Aufgaben von
 
 Das Einführungs-Material ist auch als Repl.It-Sessions verfügbar:
 
-- JavaScript-Intro 1: http://repl.it/dVR/3
-- JavaScript-Intro 2: http://repl.it/dVR/5
-- JavaScript-Intro 3: http://repl.it/dVR/6
+- JavaScript-Intro 1: http://repl.it/d6F
+- JavaScript-Intro 2: http://repl.it/d6G
+- JavaScript-Intro 3: http://repl.it/d6H
